@@ -31,4 +31,4 @@ fork后修改：
 - 1
 - 2
 - 3
-[帅气](http://tva2.sinaimg.cn/crop.0.0.480.480.50/b05653adjw8emtasl1ib7j20dc0dc3z8.jpg)
+![帅气](http://tva2.sinaimg.cn/crop.0.0.480.480.50/b05653adjw8emtasl1ib7j20dc0dc3z8.jpg)
